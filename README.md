@@ -1,1 +1,1 @@
-smartCityBeta
+smartcity
