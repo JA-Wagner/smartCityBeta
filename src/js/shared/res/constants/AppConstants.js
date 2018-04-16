@@ -3,13 +3,7 @@
 
 module.exports = {
 
-    FACEBOOK_APP_ID:"203492140411872",
-    FACEBOOK_APP_NAME: "Smart City Talk",
-
-    BASE_URL:"http://52.87.235.178:8080",
-    MGIS_APP_ID:"6",
-    ORGANIZATION_ID:"1",
-
+    obfuscated
 
     APP_NAME:"SmartCity",
     
